@@ -1,5 +1,5 @@
 
-<img align="right" height="595em" src="https://raw.githubusercontent.com/gist/solaire777/d8d483d85e0f6650432bc51d0a9b8ec6/raw/430fbc65907e0e3b250225253d5af224e89f9384/card.svg"/>
+<img align="right" height="395em" src="https://raw.githubusercontent.com/gist/solaire777/d8d483d85e0f6650432bc51d0a9b8ec6/raw/430fbc65907e0e3b250225253d5af224e89f9384/card.svg"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0E7FC0&vCenter=true&width=450&height=48&lines=Welcome+traveler%2C+I'm+Solaire;below+are+the+details+about+me." alt="Typing SVG" /></a>
 
 ## 🌓 &nbsp;About me
